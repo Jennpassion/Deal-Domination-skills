@@ -1,5 +1,5 @@
 {
-  "name": "cold_email_templates",
+  "name": "cold_email_templates.json",
   "description": "Creates high-converting cold emails for dealmaking.",
   "parameters": {
     "type": "object",
